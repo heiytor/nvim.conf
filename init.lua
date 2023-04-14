@@ -5,6 +5,8 @@ require("plugins")
 require("remap")
 require("environment")
 
+require("plenary_conf")
+
 -- Color scheme
 require("color")
 
